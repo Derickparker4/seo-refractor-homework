@@ -1,5 +1,5 @@
 # Horiseon -HW Assignment
-[Link to LIVE site](https://www.Users/derickparker/Activities/Homework/seo-refractor-homework/index.html)
+[Link to LIVE site](https://derickparker4.github.io/seo-refractor-homework/)
 
 ## Table of Contents
 - [Description](#Description)
