@@ -22,3 +22,8 @@ Read HTML and CSS files to dissect properties of the web document.
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Badges
+
+## Links
+[Deployed Website](https://derickparker4.github.io/seo-refractor-homework/)
+
+[Source Code](https://github.com/Derickparker4/seo-refractor-homework)
